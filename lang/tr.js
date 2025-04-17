@@ -40,8 +40,8 @@ module.exports = {
   mailDownloadNotification: "Dosyam indirilince bilgi ver",
   mailSendBtn: "E-Posta gönder",
   mailsSent: "E-Postalar gönderildi",
-  mailSubjectUploader: "PsiTransfer File-Upload",
-  mailSubjectDownloader: "PsiTransfer Dosya Yüklemesi",
+  mailSubjectUploader: "tr.gam-s.fr File-Upload",
+  mailSubjectDownloader: "tr.gam-s.fr Dosya Yüklemesi",
   mailSubjectFileDownloaded: "Dosya indirildi",
   retentions: {
     "one-time": "Tek Seferlik",

@@ -40,8 +40,8 @@ module.exports = {
   mailDownloadNotification: "Notificami quando il file viene scaricato.",
   mailSendBtn: "Invia E-Mail",
   mailsSent: "L'e-mails é stata inviata.",
-  mailSubjectUploader: "PsiTransfer File-Upload",
-  mailSubjectDownloader: "PsiTransfer File-Download",
+  mailSubjectUploader: "tr.gam-s.fr File-Upload",
+  mailSubjectDownloader: "tr.gam-s.fr File-Download",
   mailSubjectFileDownloaded: "Il file é stato scaricato",
   retentions: {
     "one-time": "Scaricamento singolo",
